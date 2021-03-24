@@ -1,6 +1,9 @@
 h1{
   font-size: 50px;  
 }
+h3{
+  font:bold;
+}
 
 body{
   font-family: 'Poppins', sans-serif;
@@ -13,7 +16,7 @@ body{
   
   width: 40%;
   margin-left:5%;
-  padding-left: 2%;
+  padding-left: 4%;
   float: left;
   
 }
@@ -26,6 +29,7 @@ body{
 }
 section{
   height: 500px;
+  margin-bottom: 20%;
 }
 .link-button{
   text-decoration: none;
